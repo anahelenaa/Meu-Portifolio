@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #FFFDFA;
+}
+
+header{
+    background-color: #E7E2DC;
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+}
+
+header h1 {
+    margin-left: 2.3%;
+    margin-top: 1%;
+}
+
+header div {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2.3%;
+    margin-top: 1.65%;
+    width: 5%;
+}
+
+#SobreMim {
+    background-color: #E7E2DC;
+}
+
+.Projetos {
+    background-color: #E7E2DC;
+}
+
+footer {
+    background-color: #E7E2DC;
+}
